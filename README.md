@@ -1,7 +1,7 @@
 
 # MOVIE RECOMMENDAION SYSTEM
 
-###**A. PROJECT SUMMARY**
+### **A. PROJECT SUMMARY**
 
 **Project Title:** Movie Recommendation System
 
