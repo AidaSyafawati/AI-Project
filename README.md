@@ -3,9 +3,9 @@
 
 A. PROJECT SUMMARY
 
-Project Title: Movie Recommendation System
+**Project Title:** Movie Recommendation System
 
-Team Members:
+**Team Members:**
 
 - Sumaya Azad Jerin
 
