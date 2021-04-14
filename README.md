@@ -27,6 +27,10 @@
 
 Update soon
 
+![movie recommendation](https://user-images.githubusercontent.com/82483615/114773038-1e628280-9da1-11eb-9394-f050e9d67a53.jpg)
+
+_Figure 1 shows the AI output of movie recommendation for user to select._
+
 ## **C. DATASET**
 
 UPDATE SOON
