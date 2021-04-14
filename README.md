@@ -1,11 +1,19 @@
 
 # MOVIE RECOMMENDAION SYSTEM
 
-- A. PROJECT SUMMARY
+A. PROJECT SUMMARY
 
-aidaaaaaa
-oii
+Project Title: Movie Recommendation System
 
-hello
+Team Members:
 
-![LogoJawi](https://user-images.githubusercontent.com/82483615/114763222-261c2a00-9d95-11eb-9f5a-0daccf57db9e.png)
+- Sumaya Azad Jerin
+
+- Aida Syafawati Binti Abdullah
+
+- Nur Fairuza Syahira Binti Nor Hidan
+
+- Nur Fajar Adillah Binti Abdullah
+
+
+
