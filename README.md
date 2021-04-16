@@ -49,5 +49,5 @@ UPDATE SOON
 
 ## **G. PROJECT PRESENTATION**
 
-UPDATE SOON
+[![Watch the video](https://www.youtube.com/watch?v=R64Lh1Qwl_0)
 
